@@ -4,3 +4,4 @@ This repository is the landing page of the ANT Vape Store which was made with th
 - Figma: [UI Figma](https://ungu.in/uiLPdigitalbisnis)
 
 **FOR ANT TEAM:** Please send me a message so I will receive your request soon! 🤘
+*DONE: https://antvapeshop.my.id/*
